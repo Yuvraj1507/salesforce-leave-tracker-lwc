@@ -1,7 +1,10 @@
 # 🚀 Leave Tracker App – Salesforce LWC
 
 ## 📌 Overview
-The **Leave Tracker App** is a **Salesforce Lightning Web Components (LWC) based Leave Management System** designed to automate the leave request and approval process, improving HR efficiency and compliance. This application ensures **seamless leave tracking**, enhances **role-based security**, and integrates with **Salesforce automation tools** for improved operational efficiency.
+The **Leave Tracker App** is a **Salesforce Lightning Web Components (LWC) based Leave Management System** 
+designed to automate the leave request and approval process, improving HR efficiency and compliance. 
+This application ensures **seamless leave tracking**, enhances **role-based security**, and integrates with
+**Salesforce automation tools** for improved operational efficiency.
 
 ## ✨ Features
 - **📝 Leave Request & Approval Workflow** – Employees can apply for leave, and managers can approve/reject requests via **Salesforce Flow & Process Builder**.
