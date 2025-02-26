@@ -73,7 +73,7 @@ Contributions are welcome! Feel free to **fork the repository, raise issues, and
 This project is licensed under the **MIT License**.
 
 ## 📬 Contact
-For any queries or support, reach out via **[Your Email]** or LinkedIn: **[Your Profile]**.
+For any queries or support, reach out via **[ydalayi8@gmail.com]** 
 
 🚀 Happy Coding & Leave Tracking! 🎉
 
